@@ -1,5 +1,4 @@
-# Multi-Object-Tracker
-A Pyhton Project
+
 
 # Multi-Object Tracker
 
